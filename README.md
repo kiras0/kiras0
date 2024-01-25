@@ -2,7 +2,9 @@
 ###  I’m currently learning QA Automation on Java 
 
 🚀 Welcome to my GitHub profile! I'm Mike. Here, you'll find some of my projects and contributions.
-![loadingBar](img/loadingBar.gif)
+
+### More info coming soon...
+<img src="img/loading.gif" alt="Coming Soon..." width="400" height="200">
 
 ### My Java Automation projects:
 

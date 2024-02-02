@@ -6,7 +6,7 @@
 ---
 
 ### More info coming soon...
-<img src="img/loading.gif" alt="Coming Soon..." width="400" height="200">
+<img src="img/Kiras0IsTyping.gif" alt="Coming Soon..." width="300" height="40">
 
 ---
 

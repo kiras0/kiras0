@@ -1,5 +1,5 @@
 ## <p align="center"> Hi there ! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="4%"/> </p>
-### <p align="center"> I’m currently learning QA Automation on Java </p>
+### <p align="center"> I’m currently trying to achive Cisco CCNA Certification</p>
 <p align="center"> 	:dizzy: Welcome to my GitHub profile! I'm Mike. Here, you'll find some of my projects and contributions.
 </p>
 
